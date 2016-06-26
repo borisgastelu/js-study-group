@@ -32,3 +32,7 @@
 
     7. Bajar codigo
         `git pull origin master`
+
+# TypeScript (TS)
+- Compilacion
+    `tsc --outdir build src/*.ts`
